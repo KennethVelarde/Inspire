@@ -15,26 +15,5 @@ Key Requirements: Python 3+, Keras 2+, TensorFlow 1+, OpenCV 2+.
 ![](https://media.giphy.com/media/ViHHvnYtpgskb7YSXH/giphy.gif)
 
 
-# How to run
-
-Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-Download finger and face detection models:
-```python
-python download.py
-```
-
-Run the server:
-```python
-python server.py
-```
-
-Open web browser and head to [**http://localhost:5000/**](http://localhost:5000/) to see your local app running.
-
-
-
 
 
